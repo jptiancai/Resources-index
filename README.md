@@ -2,7 +2,7 @@
 my github resources index.
 
 ## Table of Contents
-### 1.Reading-notes
+### 1. :notebook: Reading-notes
 
 * [Actor](https://github.com/jptiancai/Actor)
 * [Head-First-Java-Concurrency](https://github.com/jptiancai/Head-First-Java-Concurrency)
