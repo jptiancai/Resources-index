@@ -21,7 +21,7 @@ my github resources index.
 
 [⬆ back to top](#table-of-contents)
 
-### 2.Show-Me-The-Code
+### 2.:muscle:Show-Me-The-Code
 
 * [AlgorithmDemo](https://github.com/jptiancai/AlgorithmDemo)
 * [GameGist](https://github.com/jptiancai/GameGist)
@@ -36,7 +36,7 @@ my github resources index.
 
 [⬆ back to top](#table-of-contents)
 
-### 3.programming-study
+### 3.:basketball:programming-study
 
 * [Go](https://github.com/jptiancai/Go)
 * [learn-mina-the-hard-way](https://github.com/jptiancai/learn-mina-the-hard-way)
@@ -45,7 +45,7 @@ my github resources index.
 
 [⬆ back to top](#table-of-contents)
 
-### 4.ohter
+### 4.:bicyclist:ohter
 
 * [Google2SRT](https://github.com/jptiancai/Google2SRT)
 * [javadoc2chm](https://github.com/jptiancai/javadoc2chm)
